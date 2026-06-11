@@ -1,7 +1,7 @@
-numpy>=2.3.5
-pandas>=2.3.3
-matplotlib>=3.10.6
-seaborn>=0.13.2
-scikit-learn>=1.7.2
-joblib>=1.5.2
-ipython
+nunumpy 2.3.5
+pandas 2.3.3
+matplotlib 3.10.6
+seaborn 0.13.2
+sklearn 1.7.2
+joblib 1.5.2
+IPython 9.7.0
