@@ -48,8 +48,14 @@ IPython 9.7.0
 ```bash
 pip install -r requirements.txt
 ```
+### 2.  ודאי שקבצי הנתונים קיימים בתיקייה:
 
-### 2. הרצת המחברת
+```bash
+   `dataset.csv`
+   `title.crew.tsv.gz`
+```
+
+### 3. הרצת המחברת
 
 ```bash
 jupyter notebook notebook.ipynb
