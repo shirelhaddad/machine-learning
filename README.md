@@ -48,8 +48,8 @@ IPython 9.7.0
 ```bash
 pip install -r requirements.txt
 ```
-### 2.  ודאי שקבצי הנתונים קיימים בתיקייה:
-
+### 2.יש לודא שקבצי הנתונים קיימים בתיקייה:
+ 
 ```bash
    `dataset.csv`
    `title.crew.tsv.gz`
