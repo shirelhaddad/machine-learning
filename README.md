@@ -30,13 +30,13 @@
 ראה קובץ `requirements.txt` להתקנה מלאה:
 
 ```
-numpy>=2.4.4
-pandas>=3.0.2
-matplotlib>=3.10.8
-seaborn>=0.13.2
-scikit-learn>=1.8.0
-joblib>=1.5.3
-ipython
+numpy 2.3.5
+pandas 2.3.3
+matplotlib 3.10.6
+seaborn 0.13.2
+sklearn 1.7.2
+joblib 1.5.2
+IPython 9.7.0
 ```
 
 ---
